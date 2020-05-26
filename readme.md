@@ -2,4 +2,6 @@
 
 This project is the beginning to learning the world of DevOps.
 
-[Hello World](hello-world.py)
+## Table of Contents
+
+1. [Hello World](hello-world.py)
